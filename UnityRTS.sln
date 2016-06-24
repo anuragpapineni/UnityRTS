@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3C29C2A9-EBD8-C898-FAFC-C64693DF1C2E}") = "UnityRTS", "Assembly-CSharp.csproj", "{F78562E6-7072-80C0-994A-A29F80A5B051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78562E6-7072-80C0-994A-A29F80A5B051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78562E6-7072-80C0-994A-A29F80A5B051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78562E6-7072-80C0-994A-A29F80A5B051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78562E6-7072-80C0-994A-A29F80A5B051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

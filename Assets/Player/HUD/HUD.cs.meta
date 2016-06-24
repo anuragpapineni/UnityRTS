@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 78d064368ff8042d39cd402ee176a533
+timeCreated: 1461461209
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - resourceSkin: {fileID: 11400000, guid: 541e7edd01e22443dbe0098c983b2563, type: 2}
+  - ordersSkin: {fileID: 11400000, guid: 0fe91d112ef9149f2be57512a06a4b4b, type: 2}
+  - selectBoxSkin: {fileID: 11400000, guid: a4e48f19910c747538957a33f225e762, type: 2}
+  - buttonHover: {fileID: 2800000, guid: c39e08ea1a1774b6d8416bd343198ccc, type: 3}
+  - buttonClick: {fileID: 2800000, guid: eb0463fe310e042b3a33de70c2237f7c, type: 3}
+  - buildFrame: {fileID: 2800000, guid: 631f4b0c356954e8e90e70eb3f269167, type: 3}
+  - buildMask: {fileID: 2800000, guid: 7f5b82711984240059c09602ef4b93d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

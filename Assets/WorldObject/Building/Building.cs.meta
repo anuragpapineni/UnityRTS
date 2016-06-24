@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c5f01034a91945ecb3df0a3f68acb96
+timeCreated: 1462228759
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - buildImage: {instanceID: 0}
+  - rallyPointImage: {fileID: 2800000, guid: ed8ffdfdfd59a46e39b75467c58251eb, type: 3}
+  - sellImage: {fileID: 2800000, guid: 5fa1ac38ec8c041c5bb86154dc06a7af, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
